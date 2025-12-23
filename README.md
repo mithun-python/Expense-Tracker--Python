@@ -1,7 +1,3 @@
-# Expense-Tracker--Python
-A simple file-based expense tracker system built with Python using CSV file handling.
-
-
 # Expense Tracker System (Python)
 
 A simple file-based expense tracker application built using Python.
@@ -19,4 +15,11 @@ This project helps users record daily expenses and calculate total spending.
 - CSV Module
 - File Handling
 
-## Project Structure
+
+## How to Run
+1. Install Python
+2. Run the script:
+```bash
+python expense_tracker.py
+
+
